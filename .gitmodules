@@ -1,3 +1,6 @@
 [submodule "project/ipse-kotlin"]
 	path = project/ipse-kotlin
 	url = https://github.com/ipse-CBNU/ipse-kotlin
+[submodule "project/CsharpUnitTest"]
+	path = project/CsharpUnitTest
+	url = https://github.com/ipse-CBNU/CsharpUnitTest
